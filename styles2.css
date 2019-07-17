@@ -178,7 +178,7 @@ nav a:click{
     background-color: #3777d6;
     color: white;
     margin-top: 9%;
-    left: 10%;
+    right: 70%;
     font-size: 1.3vw;
     width: 25vw;
     height: 8vh;
@@ -197,8 +197,8 @@ button:hover{
     position: absolute;
     background-color: white;
     color: #3777d6;
-    margin-top: 20%;
-    left: 10%;
+    margin-top: 9%;
+    left: 35%;
     font-size: 1.3vw;
     width: 25vw;
     height: 8vh;
