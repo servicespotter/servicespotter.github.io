@@ -189,8 +189,10 @@ footer {
 
 .footer-text
 {
-	display: inline-block;
-    text-align: center;
+    display: inline-block;
+   float: center; 
+   left:50%;
+   text-align: center;
     width: 600px;
 }
 
