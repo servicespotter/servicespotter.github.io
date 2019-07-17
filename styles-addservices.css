@@ -31,7 +31,8 @@ nav li{
 	display: inline-block;
 	margin-top: 0.1em;
 	margin-bottom: 0;
-	margin-left: 0.5vw;
+	margin-left: 0.9vw;
+	float: left; 
 	margin-right: 1.3vw;
 	text-decoration: none;
 }
