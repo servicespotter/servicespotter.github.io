@@ -43,7 +43,6 @@ nav a {
 	text-decoration: none;
     font-size: 20px;
 }
-
 nav a:click{
 	color: #0C32AF;
 }
