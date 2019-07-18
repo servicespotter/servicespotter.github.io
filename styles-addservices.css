@@ -142,16 +142,15 @@ nav a:click{
 footer {
     background-color: grey;
     padding-top: 20px;
-    padding-bottom: 20px;
     font-size: 13px;
     text-align: center;
 }
 
 .footer-text
 {
-	display: inline-block;
+    display: inline-block;
     text-align: center;
-    padding-left: 45%;
+    padding-left: 30%;
     width: 600px;
 }
 
