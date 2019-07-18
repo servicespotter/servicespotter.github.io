@@ -181,8 +181,6 @@ th {
 }
 footer {
     background-color: grey;
-    width: 10%; 
-    height: 10%;
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 13px;
@@ -193,7 +191,7 @@ footer {
 {
     display: inline-block;
    float: center; 
-   left:50%;
+   padding-left:39%;
    text-align: center;
     width: 600px;
 }
