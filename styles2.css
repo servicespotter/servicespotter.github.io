@@ -292,22 +292,19 @@ button:hover{
   background-color: #f1f1f1;
 }
 
-
-
 footer {
     background-color: grey;
     padding-top: 20px;
-    padding-bottom: 20px;
     font-size: 13px;
     text-align: center;
 }
 
 .footer-text
 {
-	display: inline-block;
+    display: inline-block;
     text-align: center;
-    padding-left: 45%;
-    width: 500px;
+    padding-left: 30%;
+    width: 600px;
 }
 
 .footer-table
@@ -316,9 +313,8 @@ footer {
 }
 
 .city-seal{
-width: 90px;
+width: 120px;
 }
-
 
 #mapid { height: 600px;
             margin-top: 30px;
