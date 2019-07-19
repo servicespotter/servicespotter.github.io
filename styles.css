@@ -220,6 +220,7 @@ nav a:click{
     padding-left: 8px;
     padding-right: 8px;
     height: 300px;
+   bottom: 50%;
 }
 
 
